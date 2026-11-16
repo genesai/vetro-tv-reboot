@@ -3,6 +3,11 @@
 A Vetro Shard with one button, on a page in the Vetro dashboard, that restarts the TV.
 Press **Reboot TV**, then **Press again to reboot** within 5 seconds. Vetro and its Shards come back on their own after the boot.
 
+## Why
+
+Restarting the TV from the remote can be finicky and annoying, at least on a Samsung The Frame (2022). With this
+Shard anyone who can open the Vetro dashboard can restart the TV with one button, from a phone or a computer.
+
 ## Permissions
 
 `exec`: restarting the TV and reading the app registry are root commands, run through the TV's root agent.
